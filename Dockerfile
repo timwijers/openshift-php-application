@@ -1,3 +1,3 @@
-FROM timwijers/openshift-webserver:v2
+FROM timwijers/openshift-webserver:latest
 COPY . /app/
 
