@@ -7,7 +7,7 @@
   <style>
       html{	height:100%;}
       body{	font-family:Helvetica,Arial;	display:flex;	display:-webkit-flex;	align-items:center;	justify-content:center;	-webkit-align-items:center;	-webkit-box-align:center;	-webkit-justify-content:center;	height:100%;}
-      .box{	background:#CB3;	color:white;	text-align:center;	border-radius:10px;	display:inline-block;}
+      .box{	background:blue;	color:red;	text-align:center;	border-radius:10px;	display:inline-block;}
       h1{	font-size:6em;	line-height:1.5em;	margin:0 0.5em;}
       h2{	margin-top:0;}
   </style>
